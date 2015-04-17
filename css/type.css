@@ -1,0 +1,35 @@
+@font-face {
+	font-family: 'Betm';
+	src: url('../type/betm.eot');
+	src: url('../type/betm.eot?#iefix') format('embedded-opentype'),
+             url('../type/betm.woff2') format('woff2'),
+	     url('../type/betm.woff') format('woff'),
+	     url('../type/betm.ttf') format('truetype'),
+	     url('../type/betm.svg#youworkforthem') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'BetmBook';
+	src: url('../type/betm-book.eot');
+	src: url('../type/betm-book.eot?#iefix') format('embedded-opentype'),
+             url('../type/betm-book.woff2') format('woff2'),
+	     url('../type/betm-book.woff') format('woff'),
+	     url('../type/betm-book.ttf') format('truetype'),
+	     url('../type/betm-book.svg#youworkforthem') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'BetmBold';
+	src: url('../type/betm-bold.eot');
+	src: url('../type/betm-bold.eot?#iefix') format('embedded-opentype'),
+             url('../type/betm-bold.woff2') format('woff2'),
+	     url('../type/betm-bold.woff') format('woff'),
+	     url('../type/betm-bold.ttf') format('truetype'),
+	     url('../type/betm-bold.svg#youworkforthem') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}

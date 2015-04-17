@@ -1,0 +1,50 @@
+body {
+	font-size: 18px;
+	background-color: #3F4042;
+	color: #DBDBDB;
+}
+
+.container {
+	margin-top: 10%;
+}
+
+h1 {
+	margin-bottom: -1.4rem;
+	color: #00B9E7;
+}
+
+h3, h4 {
+	color: #fff;
+}
+
+h1, h2, h3 {
+	font-family: 'Betm';
+}
+
+h3 {
+	font-size: 27px;
+}
+
+h4 {
+	font-family: 'BetmBold';
+	font-size: 24px;
+	letter-spacing: 0;
+	margin-bottom: 0;
+}
+
+p, li, a {
+	font-family: 'BetmBook';
+}
+
+a {
+	color: #00B9E7;
+}
+
+ul {
+	list-style: square;
+}
+
+li {
+	margin-bottom: 0;
+}
+
